@@ -37,7 +37,7 @@ from scipy.signal import find_peaks
 from scipy.ndimage import gaussian_filter1d
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_IMAGE = os.path.join(BASE_DIR, "test.jpg")
+DEFAULT_IMAGE = os.path.join(BASE_DIR, "test4.jpg")
 
 
 # ---------- Windows 한글 경로 대응 입출력 ----------
